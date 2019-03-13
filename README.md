@@ -163,8 +163,8 @@ This line is only separated by a single newline, so it's a separate line in the 
 # YouTube Videos
 They can't be added directly but you can add an image with a link to the video like this:
 <a href="https://www.youtube.com/watch?v=w3jLJU7DT5Ev=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" 
+" target="_blank"><img src="https://www.youtube.com/yt/about/media/images/brand-resources/logos/YouTube-logo-full_color_light.svg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Or, in pure Markdown, but losing the image sizing and border:
-[![IMAGE ALT TEXT HERE](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)](https://www.youtube.com/watch?v=w3jLJU7DT5Ev=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/yt/about/media/images/brand-resources/logos/YouTube-logo-full_color_light.svg)](https://www.youtube.com/watch?v=w3jLJU7DT5Ev=YOUTUBE_VIDEO_ID_HERE)
