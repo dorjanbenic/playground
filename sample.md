@@ -34,7 +34,7 @@ __this text__ is italic
 ___
 ---
 
-<!-- Blockqute -->
+<!-- Blockquote -->
 >This is quote
 
 <!-- Links -->

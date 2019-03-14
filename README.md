@@ -34,7 +34,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+⋅⋅⋅(This is contrary to the typical GFM line break behavior, where trailing spaces are not required.)
 
 * Unordered list can use asterisks
 - Or minuses
@@ -115,8 +115,8 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-# Blockquotes
-> Blockquotes are very handy in email to emulate reply text.
+# Blockquote
+> Blockquote are very handy in email to emulate reply text.
 > This line is part of the same quote.
 
 Quote break.
