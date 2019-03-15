@@ -84,7 +84,7 @@ return num1 + num2
 ```
 
 <!-- Tables -->
-|Name   |Email       |
+|Name   |Email          |
 |--------|--------------|
 |John Doe|john@gmail.com|
 |Jane Doe|jane@gmail.com|
