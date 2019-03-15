@@ -1,0 +1,10 @@
+{
+  "emmet.triggerExpansionOnTab": true,
+  "html-css-class-completion.enableEmmetSupport": true,
+  "files.exclude": {
+    "**/settings.json/**": true
+  },
+  "files.watcherExclude": {
+    "**/.vscode/**": true
+  }
+}
