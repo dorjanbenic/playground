@@ -65,12 +65,9 @@
   font-style: normal;
   font-style: oblique;
 
-  !important
-
-  padding-right: 10px;
+  padding-right: 10px !important;
   margin-left: 5px;
 }
-
 
 /* ABBRV REF */
 #myElement{
