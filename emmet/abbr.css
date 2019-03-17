@@ -70,15 +70,16 @@
 }
 
 /* ABBRV REF */
-#myElement{
-  /*COLOR*/
+
+  /*
+  COLOR
   c:#000
   c:#0
   c:#f4
   c:rgb
   c:rgba
-
-  /*POSITION*/
+  
+  POSITION
   p:s
   p:r
   p:a
@@ -88,7 +89,7 @@
   left:50
   t:a
 
-  /*FLOAT*/
+  FLOAT
   fl
   fl:r
   fl:n
@@ -105,26 +106,26 @@
   d:li
   d:t
 
-  /*OVERFLOW*/
+  OVERFLOW
   ov
   ov:h
   ov:a
 
-  /*MARGIN*/
+  MARGIN
   m:
   mt
   mr
   ml
   mb
 
-  /*PADDING*/
+  PADDING
   p
   pt
   pr
   pl
   pb
 
-  /*SIZING*/
+  SIZING
   w:100
   a:a
   h:200
@@ -134,7 +135,7 @@
   w:2e
 
 
-  /*BORDER*/
+  BORDER
   border: 1
   bdr:2
   bdl:3
@@ -145,27 +146,27 @@
   bdbc:red
   bd+
 
-  /*LIST*/
+  LIST
   list
   list:n
   list:d
   list:c
   list:s
 
-  /*TEXT ALIGN*/
+  TEXT ALIGN
   ta
   ta:l
   ta:r
   ta:j
 
-  /*TEXT DECORATION*/
+  TEXT DECORATION
   td
   td:n
   td:u
   td:o
   td:l
 
-  /*FONTS*/
+  FONTS
   ff:s
   ff:ss
   ff:c
@@ -185,10 +186,9 @@
   fs:i
   fs:o
 
-  /* IMPORTANT */
+  IMPORTANT
   !
 
-  /*COMBINATIONS*/
+  COMBINATIONS
   p+m10px+fw:b
-
-}
+  */
